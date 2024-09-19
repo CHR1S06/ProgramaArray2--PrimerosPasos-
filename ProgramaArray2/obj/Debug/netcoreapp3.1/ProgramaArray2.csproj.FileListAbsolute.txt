@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\ProgramaArray2\ProgramaArray2\bin\Debug\netcoreapp3.1\ProgramaArray2.exe
+C:\Users\UserGPC\source\repos\ProgramaArray2\ProgramaArray2\bin\Debug\netcoreapp3.1\ProgramaArray2.deps.json
+C:\Users\UserGPC\source\repos\ProgramaArray2\ProgramaArray2\bin\Debug\netcoreapp3.1\ProgramaArray2.runtimeconfig.json
+C:\Users\UserGPC\source\repos\ProgramaArray2\ProgramaArray2\bin\Debug\netcoreapp3.1\ProgramaArray2.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\ProgramaArray2\ProgramaArray2\bin\Debug\netcoreapp3.1\ProgramaArray2.dll
+C:\Users\UserGPC\source\repos\ProgramaArray2\ProgramaArray2\bin\Debug\netcoreapp3.1\ProgramaArray2.pdb
+C:\Users\UserGPC\source\repos\ProgramaArray2\ProgramaArray2\obj\Debug\netcoreapp3.1\ProgramaArray2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\ProgramaArray2\ProgramaArray2\obj\Debug\netcoreapp3.1\ProgramaArray2.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\ProgramaArray2\ProgramaArray2\obj\Debug\netcoreapp3.1\ProgramaArray2.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\ProgramaArray2\ProgramaArray2\obj\Debug\netcoreapp3.1\ProgramaArray2.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\ProgramaArray2\ProgramaArray2\obj\Debug\netcoreapp3.1\ProgramaArray2.dll
+C:\Users\UserGPC\source\repos\ProgramaArray2\ProgramaArray2\obj\Debug\netcoreapp3.1\ProgramaArray2.pdb
+C:\Users\UserGPC\source\repos\ProgramaArray2\ProgramaArray2\obj\Debug\netcoreapp3.1\ProgramaArray2.genruntimeconfig.cache
